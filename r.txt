@@ -1,0 +1,3 @@
+appium -U 174ac0047d43 -p 4763  -bp 56494 --session-override --log appiumtest_b.log
+
+D:/git/sample-code/sample-code/apps/xcall-android-v0.9-debug.apk'
